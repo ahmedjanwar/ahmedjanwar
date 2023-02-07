@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ahmedjanwar
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in software Development
 - 🌱 I’m currently learning Java,Js and python
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me ajemal840@gmail.com
