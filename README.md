@@ -138,7 +138,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" alt="GitHub stats" />
 </p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedjanwar&hide=contribs,prs)
 
 <br/>
 
