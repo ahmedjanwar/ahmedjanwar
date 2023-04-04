@@ -135,7 +135,7 @@
 
 <br/>
 <p align="center">
-   <img src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)" alt="GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" alt="GitHub stats" />
 </p>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
