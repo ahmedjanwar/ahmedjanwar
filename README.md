@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmedjanwar/](https://www.linkedin.com/in/ahmedjanwar/">
-<img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Jukka%20Rauhala-blue?style=flat-square&logo=linkedin](https://img.shields.io/badge/ahmedjanwar-LinkedIn-blue)"></a>
+<img alt="LinkedIn" src="https://img.shields.io/badge/ahmedjanwar-LinkedIn-blue"></a>
 <a href="mailto:ajemal840@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-ajemal840%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
