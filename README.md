@@ -21,10 +21,10 @@
 <h2 align="center"> 🤝🏻 Contact </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jukkarauhala/](https://www.linkedin.com/in/ahmedjanwar/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jukka%20Rauhala-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ahmedjanwar/](https://www.linkedin.com/in/ahmedjanwar/">
+<img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Jukka%20Rauhala-blue?style=flat-square&logo=linkedin](https://img.shields.io/badge/ahmedjanwar-LinkedIn-blue)"></a>
 <a href="mailto:ajemal840@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-rauhala.jukka%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+<img alt="Email" src="https://img.shields.io/badge/Email-ajemal840%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
 
 <h2 align="center">⚙️ Tools and technologies that I have worked with and am interested in</h2>
