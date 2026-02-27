@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome 👋</h1>
 
-![Ahmed Anwar](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Ahmed+Anwar)
+![Ahmed Anwar ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Ahmed+Anwar)
 - 👋 Hi, I’m @ahmedjanwar
 - 👀 I’m interested in software Development
 - 🌱 I’m currently learning Docker,Kuberneties and AWS
