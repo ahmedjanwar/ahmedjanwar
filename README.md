@@ -1,149 +1,56 @@
-<h1 align="center"> Welcome 👋</h1>
-
-![Ahmed Anwar ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Greetings%2C+my+name+is+Ahmed+Anwar)
-- 👋 Hi, I’m @ahmedjanwar
-- 👀 I’m interested in software Development
-- 🌱 I’m currently learning Docker,Kuberneties and AWS
-- 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me ajemal840@gmail.com
-
-
-<h2 align="center">👨🏻‍💻 Skills</h2>
-
-- Front-End, Back-End, Scripting
-- C, C++, C#, Java, Python
-- HTML, CSS, JavaScript
-- PHP & mySQL
-- Windows, Linux
-- Docker, Kuberneties
-- AWS
-
-<h2 align="center"> 🤝🏻 Contact </h2>
+<h1 align="center">Hi, I'm Anwar Ahmed 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmedjanwar/](https://www.linkedin.com/in/ahmedjanwar/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/ahmedjanwar-LinkedIn-blue"></a>
-<a href="mailto:ajemal840@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-ajemal840%40gmail.com-red?style=flat-square&logo=Gmail"></a>
+  Software Development Engineer at <b>Wärtsilä</b> · Founder of <b>CopiZen</b> · Open-source contributor<br/>
+  I build dependable software with C# .NET, Blazor and React, ship my own products with Next.js and Supabase,<br/>
+  and contribute to security tooling.
 </p>
 
-<h2 align="center">⚙️ Tools and technologies that I have worked with and am interested in</h2>
-
-<table align="center">
-  <tr>
-     <td align="center" width="96">
-      <a href="#PHP">
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>RestApi
-    </td>
-  <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-  </td>
-  <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
-      <br>Github
-  </td>
-  <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-     </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#MySQL">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#Windows" >
-        <img src="https://www.svgrepo.com/show/355384/windows-legacy.svg" width="48" height="48" alt="Windows" />
-      </a>
-      <br>Windows
-     <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-  <td align="center" width="96">
-      <a href="#Kubuntu" >
-        <img src="https://seeklogo.com/images/K/kubuntu-logo-975308A107-seeklogo.com.png" width="48" height="48" alt="Kubuntu" />
-      </a>
-      <br>Kubuntu
-    </td>
-     </td>
-        </tr>
-    <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center"  width="96">
-      <a href="#eclipse">
-        <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="48" height="48" alt="eclipse" />
-      </a>
-      <br>Eclipse
-    </td>
-    <td align="center" width="96">
-      <a href="#C"> <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C" width="40" height="40"/> </a> 
-      <br>C
-    </td>
-    <td align="center" width="96">
-      <a href="#C++"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a> 
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#Java"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
-      <br>Java
-    </td>
-    
-  </tr>
-
-</table>
-
-<br/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ahmedjanwar&hide=contribs,prs" alt="GitHub stats" />
+  <a href="https://ahmed-jemal-showcase.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ahmed--jemal--showcase-111?style=flat-square&logo=vercel"></a>
+  <a href="https://ahmed-jemal-showcase.vercel.app/blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-read-e8622c?style=flat-square&logo=rss&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmedjanwar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahmedjanwar-0A66C2?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:ajemal840@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajemal840%40gmail.com-c5221f?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
+---
 
+### 🛡️ Open source
 
-<br/>
+I contribute to tools that security teams and developers rely on.
 
+| Project | Contribution | Status |
+|---|---|---|
+| **[OWASP Web Security Testing Guide](https://github.com/OWASP/wstg)** | [Fixed dead and moved references across five testing chapters](https://github.com/OWASP/wstg/pull/1607) | ✅ Merged |
+| **[Floorplan](https://github.com/haydenschmitty/floorplan)** | [Health check: stop look-alike Express middleware from hiding open endpoints](https://github.com/haydenschmitty/floorplan/pull/85) | 🔍 In review |
+| **[Floorplan](https://github.com/haydenschmitty/floorplan)** | [Recognise FastAPI's app-wide login middleware](https://github.com/haydenschmitty/floorplan/pull/87): a bug I found and [reported](https://github.com/haydenschmitty/floorplan/issues/86) | 🔍 In review |
+| **[MudBlazor](https://github.com/MudBlazor/MudBlazor)** | [Clickable table rows with `RowHref` and `RowTarget`](https://github.com/MudBlazor/MudBlazor/pull/14130) | 🔍 In review |
 
-<!---
-ahmedjanwar/ahmedjanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 What I'm building
+
+- **[Vibe Code Auditor](https://vibe-code-auditor.vercel.app/)**: one URL in, a plain-English security, performance and SEO audit out, for sites built with AI coding tools.
+- **Netwatch**: an old laptop turned into my home network's control room: DNS and DHCP, live traffic map, ad blocking and a Telegram bot. [Read the story →](https://ahmed-jemal-showcase.vercel.app/blog/old-laptop-home-network-control-room)
+- **Doc Who**: an interactive neuroradiology and brain-anatomy trainer for medical students.
+- **[KubeLink](https://github.com/ahmedjanwar/KubeLink---URL-Shortener-Service)**: a cloud-native URL shortener with a full CI/CD pipeline.
+- **[GreenView](https://github.com/ahmedjanwar/Sustainability-Intelligence-Platform)**: a sustainability intelligence platform built at a hackathon.
+
+### ✍️ Latest from the blog
+
+- [OWASP merged my first open-source contribution in 3 hours](https://ahmed-jemal-showcase.vercel.app/blog/owasp-wstg-first-open-source-contribution)
+- [I turned an old laptop into my home network's control room](https://ahmed-jemal-showcase.vercel.app/blog/old-laptop-home-network-control-room)
+- [People are using AI agents to make their smart TVs dumb again](https://ahmed-jemal-showcase.vercel.app/blog/ai-agents-debloat-smart-tv)
+
+### 🧰 Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,python,fastapi,postgres,supabase,docker,kubernetes,aws,gcp,githubactions,linux,ubuntu&perline=8" alt="C#, .NET, React, Next.js, TypeScript, Python, FastAPI, PostgreSQL, Supabase, Docker, Kubernetes, AWS, GCP, GitHub Actions, Linux, Ubuntu" />
+</p>
+
+**Also:** Blazor · ReactiveUI · REST APIs · DevSecOps · Oracle ERP Cloud
+
+### 📍 A bit about me
+
+- 🇪🇹 → 🇫🇮 Came to Finland as an international student, studied Software Engineering at VAMK, and went from summer trainee to full-time engineer at Wärtsilä
+- 🎓 Cisco CyberOps Associate · DevSecOps Foundations
+- 💼 CTO at Moha Nur Technologies, alongside my engineering role
+- 🗣️ English · Amharic · Arabic
