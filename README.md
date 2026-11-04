@@ -22,9 +22,9 @@ I contribute to tools that security teams and developers rely on.
 | Project | Contribution | Status |
 |---|---|---|
 | **[OWASP Web Security Testing Guide](https://github.com/OWASP/wstg)** | [Fixed dead and moved references across five testing chapters](https://github.com/OWASP/wstg/pull/1607) | ✅ Merged |
+| **[MudBlazor](https://github.com/MudBlazor/MudBlazor)** | [Clickable table rows with `RowHref` and `RowTarget`](https://github.com/MudBlazor/MudBlazor/pull/14130) | ✅ Merged |
 | **[Floorplan](https://github.com/haydenschmitty/floorplan)** | [Health check: stop look-alike Express middleware from hiding open endpoints](https://github.com/haydenschmitty/floorplan/pull/85) | 🔍 In review |
 | **[Floorplan](https://github.com/haydenschmitty/floorplan)** | [Recognise FastAPI's app-wide login middleware](https://github.com/haydenschmitty/floorplan/pull/87): a bug I found and [reported](https://github.com/haydenschmitty/floorplan/issues/86) | 🔍 In review |
-| **[MudBlazor](https://github.com/MudBlazor/MudBlazor)** | [Clickable table rows with `RowHref` and `RowTarget`](https://github.com/MudBlazor/MudBlazor/pull/14130) | 🔍 In review |
 
 ### 🚀 What I'm building
 
