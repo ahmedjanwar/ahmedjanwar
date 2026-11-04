@@ -36,9 +36,9 @@ I contribute to tools that security teams and developers rely on.
 
 ### ✍️ Latest from the blog
 
+- [A 3-year-old MudBlazor feature request, merged in 23 hours](https://ahmed-jemal-showcase.vercel.app/blog/mudblazor-table-row-links-merged)
 - [OWASP merged my first open-source contribution in 3 hours](https://ahmed-jemal-showcase.vercel.app/blog/owasp-wstg-first-open-source-contribution)
 - [I turned an old laptop into my home network's control room](https://ahmed-jemal-showcase.vercel.app/blog/old-laptop-home-network-control-room)
-- [People are using AI agents to make their smart TVs dumb again](https://ahmed-jemal-showcase.vercel.app/blog/ai-agents-debloat-smart-tv)
 
 ### 🧰 Tech I use
 
