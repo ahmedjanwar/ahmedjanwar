@@ -30,7 +30,6 @@ I contribute to tools that security teams and developers rely on.
 
 - **[Netwatch](https://github.com/ahmedjanwar/netwatch-oss)** (open source, MIT): turn a spare computer into a control room for your home network. Live device map, new-device approval, ad blocking and a Telegram bot, with a one-line installer. [Read the story →](https://ahmed-jemal-showcase.vercel.app/blog/old-laptop-home-network-control-room)
 - **[Vibe Code Auditor](https://vibe-code-auditor.vercel.app/)**: one URL in, a plain-English security, performance and SEO audit out, for sites built with AI coding tools.
-
 - **Doc Who**: an interactive neuroradiology and brain-anatomy trainer for medical students.
 - **[KubeLink](https://github.com/ahmedjanwar/KubeLink---URL-Shortener-Service)**: a cloud-native URL shortener with a full CI/CD pipeline.
 - **[GreenView](https://github.com/ahmedjanwar/Sustainability-Intelligence-Platform)**: a sustainability intelligence platform built at a hackathon.
